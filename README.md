@@ -1,3 +1,10 @@
-# Graph Neural Networks
+# Graph Based Algorithms
 
-This repo contains several explanations, implementations of SOTA algorithms on Graphs, and detailed descriptions of some of the basic GNN concepts.
+* Implementations of classic algorithms with graph neural networks. 
+* Node classification
+* Self Supervised
+
+
+### Reference, and more details on Graph Neural Networks
+https://zqfang.github.io/
+
