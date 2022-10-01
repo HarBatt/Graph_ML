@@ -2,6 +2,6 @@
 
 * Implementations of classic algorithms with graph neural networks. 
 * Node classification
-* Self Supervised
+* Self Supervision
 
 
