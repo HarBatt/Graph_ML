@@ -5,6 +5,3 @@
 * Self Supervised
 
 
-### Reference, and more details on Graph Neural Networks
-https://zqfang.github.io/
-
